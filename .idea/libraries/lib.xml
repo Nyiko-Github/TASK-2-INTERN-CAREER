@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jar_files/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib" />
+      <root url="file://$PROJECT_DIR$/../jar_files/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/testfx-core-4.0.16-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/testfx-junit5-4.0.16-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/junit-platform-engine-1.11.0-M2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/junit-jupiter-api-5.11.0-M2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/testfx-junit5-4.0.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/hamcrest-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/powermock-api-mockito2-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/mockito-core-5.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/powermock-module-junit4-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/powermock-core-2.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../jar_files/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../jar_files/openjfx-22.0.1_windows-x64_bin-sdk/javafx-sdk-22.0.1/lib" recursive="false" />
+  </library>
+</component>

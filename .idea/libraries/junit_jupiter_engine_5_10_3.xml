@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="junit-jupiter-engine-5.10.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/junit-jupiter-engine-5.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/mockito-core-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/junit-jupiter-api-5.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Jungle Jam/Jars/powermock-module-junit4-2.0.9.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
